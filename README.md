@@ -8,8 +8,8 @@ In this project, I have analysed **housing satisfaction in the Netherlands** usi
 
 **Data Source**
 
-- Dataset: CBS StatLine Housing Satisfaction
-- API Link: CBS API Housing Satisfaction
+- Dataset: CBS StatLine Housing Satisfaction (https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84571ENG&_theme=1168)
+- API Link: CBS API Housing Satisfaction (https://opendata.cbs.nl/ODataApi/odata/84571ENG)
 
 **Dataset Overview**
 
@@ -86,4 +86,4 @@ The XGBoost model reveals that smaller, older, and low-value dwellings, especial
 
 **Link to License**
 
-This dataset is licensed under the **CC BY 4.0 License**.
+This dataset is licensed under the **CC BY 4.0 License** (https://creativecommons.org/licenses/by/4.0/).
