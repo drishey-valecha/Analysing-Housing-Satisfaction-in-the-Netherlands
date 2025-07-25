@@ -17,20 +17,20 @@ In this project, I have analysed **housing satisfaction in the Netherlands** usi
 2) Records in this project with a focus on housing satisfaction: 295,680.
 3) Features: 8
 4) Target variable (SatisfactionWithCurrentDwelling_1):
-  - **0** --> Unhappy residents.
-  - **1** --> Happy residents.
+- **0** --> Unhappy residents.
+- **1** --> Happy residents.
 5) Feature categories:
-  - *Categorical Features*: OwnerTenant, DwellingCharacteristics, Margins, Regions, and Periods.
-  - *Numerical Features*: ID, SatisfactionWithCurrentDwelling_1, and SatisfactionWithLivingEnvironment_2.
+- *Categorical Features*: OwnerTenant, DwellingCharacteristics, Margins, Regions, and Periods.
+- *Numerical Features*: ID, SatisfactionWithCurrentDwelling_1, and SatisfactionWithLivingEnvironment_2.
 6) The dataset contains various attributes about housing satisfaction, such as:
-  - *Satisfaction with House*: Evaluates how satisfied residents are with their dwelling.
-  - *Satisfaction with Environment*: Assesses how satisfied they are with their neighbourhood, amenities, and overall living conditions.
-  - *Dwelling Characteristics*: Includes property value, dwelling size, age, and whether it has outdoor space.
-  - *Ownership Type: Whether the resident is a homeowner or a tenant.
+- *Satisfaction with House*: Evaluates how satisfied residents are with their dwelling.
+- *Satisfaction with Environment*: Assesses how satisfied they are with their neighbourhood, amenities, and overall living conditions.
+- *Dwelling Characteristics*: Includes property value, dwelling size, age, and whether it has outdoor space.
+- *Ownership Type: Whether the resident is a homeowner or a tenant.
 7) Key observations:
-  - Most people in the Netherlands report being highly satisfied with both their homes and environments.
-  - However, a small portion of residents, especially tenants, report dissatisfaction.
-  - Smaller dwellings, older constructions, and a lack of outdoor space are strongly correlated with dissatisfaction.
+- Most people in the Netherlands report being highly satisfied with both their homes and environments.
+- However, a small portion of residents, especially tenants, report dissatisfaction.
+- Smaller dwellings, older constructions, and a lack of outdoor space are strongly correlated with dissatisfaction.
 
 **Methodology**
 
